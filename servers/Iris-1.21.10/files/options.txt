@@ -56,8 +56,8 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/CYML.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","fabric","file/CYML.zip","file/generated.zip"]
+incompatibleResourcePacks:["file/generated.zip"]
 lastServer:
 lang:ko_kr
 chatVisibility:0
@@ -232,3 +232,4 @@ modelPart_right_sleeve:true
 modelPart_left_pants_leg:true
 modelPart_right_pants_leg:true
 modelPart_hat:true
+
